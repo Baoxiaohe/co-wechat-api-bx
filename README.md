@@ -1,6 +1,6 @@
 Wechat API(ES6版)
 ===========
-微信公共平台API。
+微信公共平台API（魔改版）。
 
 ## 模块状态
 - [![NPM version](https://badge.fury.io/js/co-wechat-api.png)](http://badge.fury.io/js/co-wechat-api)
@@ -36,13 +36,13 @@ Wechat API(ES6版)
 ## Installation
 
 ```sh
-$ npm install co-wechat-api-new
+$ npm install co-wechat-api-bx
 ```
 
 ## Usage
 
 ```js
-var WechatAPI = require('co-wechat-api');
+var WechatAPI = require('co-wechat-api-bx');
 
 async function() {
   var api = new WechatAPI(appid, appsecret);
