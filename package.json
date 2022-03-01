@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-webot/co-wechat-api.git"
+    "url": "git://github.com/Baoxiaohe/co-wechat-api-bx.git"
   },
   "keywords": [
     "weixin",
