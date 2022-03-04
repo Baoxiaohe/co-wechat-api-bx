@@ -1185,10 +1185,10 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
-httpx-bx@^2.2.8:
-  version "2.2.8"
-  resolved "https://registry.npmmirror.com/httpx-bx/-/httpx-bx-2.2.8.tgz#e54e0afc6f2ce35302cfea5b61161232ea2cb460"
-  integrity sha512-xb8Xas71di7W417zv/Ud/IedofLCQvsERXQee5tAJc6FEkQKeAqR78W5OBwwFoCLr04Q/lMlF5/JiysyuAuEvw==
+httpx-bx@^2.2.9:
+  version "2.2.9"
+  resolved "https://registry.npmmirror.com/httpx-bx/-/httpx-bx-2.2.9.tgz#f9bf1da7b19e71e696cfe0d43a69cfa0b420d497"
+  integrity sha512-YV7ypPpXsN6Mk8QUw599kAAe8G04dkti4eXCUjx2d2Kob+XXK+UOexOxhPOPFgBl3+l54+v/Ew04D4iPrxVxtQ==
   dependencies:
     "@types/node" "^14"
     agentkeepalive "^4.2.1"
